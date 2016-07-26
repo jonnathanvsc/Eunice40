@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573633073422",
+    "firebase_url": "https://eunice40-52cff.firebaseio.com",
+    "project_id": "eunice40-52cff",
+    "storage_bucket": "eunice40-52cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573633073422:android:2df86c3cb75ea1f5",
+        "android_client_info": {
+          "package_name": "com.sordatech.eunice40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573633073422-0dopd8ra52r417cb8ma2r7c4f7pu5fhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sordatech.eunice40",
+            "certificate_hash": "B8767A3B7F2E68D2DC6940B33000B9CF2BFEAB22"
+          }
+        },
+        {
+          "client_id": "573633073422-e7bj720opdgh7o8qo2kcfbdmf40aqdlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fDJg5J-R-Y0aFuL2qTkdsHSGJRKCeLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573633073422-e7bj720opdgh7o8qo2kcfbdmf40aqdlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

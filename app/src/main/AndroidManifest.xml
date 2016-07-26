@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sordatech.eunice40">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".perfileunice.PerfileuniceActivity" />
+        <activity android:name=".perfilbaby.PerfilbabyActivity" />
+        <activity android:name=".PropostasActivity" />
+        <activity android:name=".EventosActivity" />
+        <activity android:name=".FotosActivity" />
+        <activity android:name=".MidiasActivity" />
+        <activity android:name=".FalecomActivity"></activity>
+    </application>
+
+</manifest>
